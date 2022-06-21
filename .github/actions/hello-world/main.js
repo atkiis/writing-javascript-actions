@@ -1,4 +1,7 @@
+<<<<<<< HEAD
 console.log("Hello World");
+=======
+>>>>>>> d6d16961f318cfa7d809ddc41cbdc7bc6ce0ce91
 const core = require("@actions/core");
 
 const firstGreeting = core.getInput("first-greeting");
